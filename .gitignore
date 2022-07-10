@@ -1,0 +1,10 @@
+# Untracked files:
+build/
+testcase/
+*.orig
+*.gz
+external/
+
+*.swp
+bin/
+external/cgns/cgnslib_2.5/
